@@ -1,0 +1,15 @@
+a) fastest non moving speed
+
+find the fastest speed for the square to move across the screen and have the motion be imperceptible. Time how long it takes for the square to move across the screen and measure the physical (not pixel) distance. What is this speed in inches/second ? for kicks, What is it in in mph?
+
+Second to cross the screen: 833.333
+Inches per second: .0084
+Miles per second: .0000000132575757
+
+b) fastest still perceptible speed
+
+find the fastest speed for the square to move across the screen and have the motion be still perceived as continuous (not discrete jumps). Time how long it takes for the square to move across the screen and measure the physical (not pixel) distance. What is this speed in inches/second ? What is this rate in mph?
+
+Seconds to cross the scree: 0.185185185
+Inches per second: 37.8
+Miles per seconds: 0.000596591
